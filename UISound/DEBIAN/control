@@ -1,0 +1,11 @@
+Package: org.golde.cydia.UISounds
+Name: Custom UI Sounds
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: Changed your lock sound to say "initiating shutdown sequence" in a female robot voice 
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Themes
+Conflicts: 
+Depends: winterboard
